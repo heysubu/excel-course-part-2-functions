@@ -476,8 +476,8 @@ City dropdown cell: E79 (contains "Washington")
 
 ## 📞 Contact
 
-- 🐙 **GitHub:** [heysubu](https://github.com/heysubu)
-- 💼 **LinkedIn:** [Subham Ghadge](https://www.linkedin.com/in/subhamghadge/)
+- 🐙 [**GitHub**](https://github.com/heysubu)
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/subhamghadge/)
 
 ---
 
